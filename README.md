@@ -17,10 +17,23 @@ My interests span **Optimization, ML, Agentic AI, AI, NLP, and Computer Vision**
 ## Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,apache-spark,git,github,docker,azure,aws,latex,xgboost,sk,mlflow,airflow,kedro,optuna" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-2A2A2A?style=flat&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kedro-FFC000?style=flat&logo=kedro&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Optuna-2A2A2A?style=flat&logo=optuna&logoColor=white"/>
 </p>
+
 
 
 ## Where to find me
